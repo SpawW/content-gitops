@@ -13,7 +13,7 @@ $ sudo snap install fluxctl
 This is the command to check the kubernetes cluster that is staged.
 
 ```
-$ kubctl get nodes
+$ kubectl get nodes
 ```
 
 This is the command to create a namespace called flux.
